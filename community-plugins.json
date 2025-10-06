@@ -2527,6 +2527,13 @@
     "repo": "vrtmrz/obsidian-tagfolder"
   },
   {
+		"id": "tagmatter",
+		"name": "Tagmatter",
+		"author": "Joe Mendonca",
+    "description": "Automatically formats inline #tags into clean YAML frontmatter."
+		"repo": "joemendonca/tagmatter",
+	},
+  {
     "id": "obsidian-advanced-slides",
     "name": "Advanced Slides",
     "author": "MSzturc",
